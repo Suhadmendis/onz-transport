@@ -14,11 +14,11 @@
 // $dbname = 'amttran1_amt';
 
 
-$servername = 'localhost';
-$username = 'root';
-$password = '';
+$servername = '198.54.114.227';
+$username = 'onesjyks';
+$password = 'SaGaRa4000';
 $port = 10060;
-$dbname = 'amt-transport';
+$dbname = 'onesjyks_one_transport';
 
 
 $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
