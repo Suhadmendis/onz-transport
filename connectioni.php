@@ -6,9 +6,9 @@
 // $GLOBALS['db'] = 'amttran1_amt';
 
 $GLOBALS['hostname'] = 'localhost';
-$GLOBALS['username'] = 'root';
-$GLOBALS['password'] = '';
-$GLOBALS['db'] = 'amt-transport';
+$GLOBALS['username'] = 'onesjyks_akila';
+$GLOBALS['password'] = 'SaGaRa4000';
+$GLOBALS['db'] = 'onesjyks_one_transport';
 
 
 
