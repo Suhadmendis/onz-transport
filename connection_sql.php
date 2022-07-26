@@ -15,7 +15,7 @@
 
 
 $servername = 'localhost';
-$username = 'onesjyks';
+$username = 'onesjyks_akila';
 $password = 'SaGaRa4000';
 $port = 10060;
 $dbname = 'onesjyks_one_transport';
