@@ -14,8 +14,8 @@
 // $dbname = 'amttran1_amt';
 
 
-$servername = '198.54.114.227';
-$username = 'onesjyks_akila';
+$servername = 'localhost';
+$username = 'onesjyks';
 $password = 'SaGaRa4000';
 $port = 10060;
 $dbname = 'onesjyks_one_transport';

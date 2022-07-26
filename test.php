@@ -1,7 +1,7 @@
 <?php
 
-$servername = '198.54.114.227';
-$username = 'onesjyks_akila';
+$servername = 'localhost';
+$username = 'onesjyks';
 $password = 'SaGaRa4000';
 
 
